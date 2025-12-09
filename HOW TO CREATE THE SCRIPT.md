@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![BYTELES Logo](https://via.placeholder.com/600x200/191A1E/3C82DC?text=BYTELES+UI+Library)
+![BYTELES Logo](https://i.ytimg.com/vi/AHswxUYSMdw/oar2.jpg?sqp=-oaymwEiCJwEENAFSFqQAgHyq4qpAxEIARUAAAAAJQAAyEI9AICiQw==&rs=AOn4CLBolEo_M8MviRYv2lsA1DJkgEbRng)
 
 **A modern, professional UI library for Roblox scripting**
 
