@@ -864,7 +864,7 @@ SOFTWARE.
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by the BYTELES Team
+Made with ❤️ by the BYTEBANDIT Team
 
 [Back to Top](#-byteles-ui-library)
 
